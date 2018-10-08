@@ -9,7 +9,7 @@ const NavBar = () => {
     <nav className='navbar is-fixed-top' aria-label='main navigation'>
       <div className='navbar-brand'>
         <Link to='/' className='navbar-item'>
-                    Gatsby Starter Business
+                    CTinformatique
         </Link>
         <button className='button navbar-burger' data-target='navMenu'>
           <span />
@@ -20,10 +20,10 @@ const NavBar = () => {
       <div className='navbar-menu' id='navMenu'>
         <div className='navbar-start'>
           <Link className='navbar-item' to='/pricing'>
-                        Pricing
+                        Tarifs
           </Link>
           <Link className='navbar-item' to='/about'>
-                        About
+                        A propos
           </Link>
           <Link className='navbar-item' to='/blog'>
                         Blog
@@ -36,7 +36,7 @@ const NavBar = () => {
                 <Link
                   className='button is-primary is-outlined'
                   to='/contact'>
-                                    Contact Us
+                         Support
                 </Link>
               </p>
             </div>
