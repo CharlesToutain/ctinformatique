@@ -1,20 +1,16 @@
 ---
-templateKey: 'contact-page'
-title: Contact Us
-subtitle: We'd Love To Help You, Feel Free To Drop A Mail
-meta_title: Contact Us | Gatsby Starter Business
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+templateKey: contact-page
+title: Support
+subtitle: Parce que nous sommes proches de vous !
 contacts:
-  - email: support@lorem.com
-    description: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
-  - email: contact@lorem.com
-    description: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - description: 'Pour toutes demandes de SAV, supports, assistances et conseils techniques.'
+    email: assistance.ctinformatique@gmail.com
+  - description: 'Pour toutes demandes commerciales, nouveaux projets.'
+    email: charles-edouard.toutain@outlook.fr
+meta_title: 'Support | CTinformatique création de site, dépannage informatique.'
+meta_description: >-
+  Voici la page support du site CTinformatique. Ici retrouvez les adresses
+  emails et les solutions pour contacter CTinformatique création de site web et
+  dépannage, assistance informatiques située dans l'Orne en Basse-Normandie.
 ---
+
