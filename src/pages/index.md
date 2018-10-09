@@ -5,13 +5,13 @@ heading: Concepteur développeur indépendant.
 description: Parce'que aujourd'hui l'informatique et le web sont des nécessités.
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/creation_site.png
       text: >
         Création de votre site web. Nous proposons de gérer l'intégralité de
         votre projet web. En commençant par recueillir vos besoins métiers et
         vos besoins fonctionnels, nous établissons ensemble un cahier des
         charges afin de cadrer votre projet web.
-    - image: /img/coffee-gear.png
+    - image: /img/creation_site.png
       text: >
         Dépannage assistance informatiques. Nous intervenons par exemple dans
         l'installation de vos équipements informatiques ainsi que le dépannage
