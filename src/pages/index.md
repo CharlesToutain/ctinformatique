@@ -11,20 +11,20 @@ offerings:
         votre projet web. En commençant par recueillir vos besoins métiers et
         vos besoins fonctionnels, nous établissons ensemble un cahier des
         charges afin de cadrer votre projet web.
-    - image: /img/creation_site.png
+    - image: /img/depannage_informatique.jpg
       text: >
         Dépannage assistance informatiques. Nous intervenons par exemple dans
         l'installation de vos équipements informatiques ainsi que le dépannage
         de votre matériel. Nous assurons une intervention dans un délais de 8h à
         72h suivant votre urgence ! Les déplacements sont compris dans nos
         tarifs.
-    - image: /img/tutorials.png
+    - image: /img/bureautique.png
       text: >
         Formation et cour pour particulier et professionnels. Notre cœur de
         métier est de vous former sur différents aspects, l'informatique, le
         web, la bureautique et les bonnes pratiques de sécurités informatiques.
         Nos cours et formations sont adaptées aux débutants et intermédiaires. 
-    - image: /img/meeting-space.png
+    - image: /img/webmarketing.png
       text: >-
         Enfin nous pouvons vous conseillez sur l'aspect communication et
         webmarketing pour les petites entreprises. Par exemple : Création de
