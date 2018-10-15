@@ -34,6 +34,14 @@ export default class HTML extends Component {
           {this.props.headComponents}
           <link rel='shortcut icon' href={favicon} />
           {css}
+        <!-- Add to home screen for Safari on iOS -->
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+      <meta name="apple-mobile-web-app-title" content="React App">
+      <link rel="apple-touch-icon" href="%PUBLIC_URL%/icons/icon-192x192.png">
+      <!-- Windows Tile Icon -->
+      <meta name="msapplication-TileImage" content="%PUBLIC_URL%/icons/icon-192x192.png">
+      <meta name="msapplication-TileColor" content="#000000">
         </head>
         <body>
           <div
