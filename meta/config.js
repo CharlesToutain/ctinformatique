@@ -17,5 +17,5 @@ module.exports = {
   userDescription: 'Charles-Edouard Toutain développeur web full stack. Freelance et actuellement en poste chez Subteno-it en alternance en tant que développeur odoo.',
   copyright: 'Copyright © CTinformatique 2018. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#ED1E79', // Used for setting manifest and progress theme colors.
-  backgroundColor: '#ffffff', // Used for setting manifest background color.
+  backgroundColor: '#ED1E79', // Used for setting manifest background color.
 }

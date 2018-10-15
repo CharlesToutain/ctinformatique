@@ -36,12 +36,12 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: config.siteTitle,
-        short_name: config.siteTitle,
+        name: CTinformatique,
+        short_name: Dépannage,
         description: config.siteDescription,
         start_url: config.pathPrefix,
-        background_color: "#F5E35C",
-        theme_color: "#bdbdbd",
+        background_color: "#ED1E79",
+        theme_color: "#ED1E79",
         display: "fullscreen",
         icons: [{
             src: `${config.siteUrl + pathPrefix}/icon-192x192.png`,
