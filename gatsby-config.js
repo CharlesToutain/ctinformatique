@@ -44,12 +44,12 @@ module.exports = {
         theme_color: "#ED1E79",
         display: "fullscreen",
         icons: [{
-            src: `${config.siteUrl + pathPrefix}/icon-192x192.png`,
+            src: `/icon-192x192.png`,
             sizes: "192x192",
             type: "image/png"
           },
           {
-            src: `${config.siteUrl + pathPrefix}/icon-512x512.png`,
+            src: `/icon-512x512.png`,
             sizes: "72x72 96x96 128x128 256x256"
           }
         ]
