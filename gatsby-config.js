@@ -42,14 +42,14 @@ module.exports = {
         start_url: config.pathPrefix,
         background_color: "#F5E35C",
         theme_color: "#bdbdbd",
-        display: "standalone",
+        display: "fullscreen",
         icons: [{
-            src: `/icons/icon-192x192.png`,
+            src: `${config.siteUrl + pathPrefix}/icon-192x192.png`,
             sizes: "192x192",
             type: "image/png"
           },
           {
-            src: `/icons/icon-512x512.png`,
+            src: `${config.siteUrl + pathPrefix}/icon-512x512.png`,
             sizes: "72x72 96x96 128x128 256x256"
           }
         ]
