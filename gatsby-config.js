@@ -32,28 +32,28 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
     },
+        
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: "gatsby-plugin-manifest",
       options: {
         name: config.siteTitle,
-        short_name: config.siteTitleAlt,
-        start_url: '/',
-        background_color: config.backgroundColor,
-        theme_color: config.themeColor,
-        display: 'standalone',
-        icons: [
-          {
+        short_name: config.siteTitle,
+        description: config.siteDescription,
+        start_url: config.pathPrefix,
+        background_color: "#F5E35C",
+        theme_color: "#bdbdbd",
+        display: "standalone",
+        icons: [{
             src: `/icons/icon-192x192.png`,
-            sizes: `192x192`,
-            type: `image/png`,
+            sizes: "192x192",
+            type: "image/png"
           },
           {
             src: `/icons/icon-512x512.png`,
-            sizes: `512x512`,
-            type: `image/png`,
-          },
-        ],
-      },
+            sizes: "72x72 96x96 128x128 256x256"
+          }
+        ]
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
