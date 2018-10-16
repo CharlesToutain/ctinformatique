@@ -2,7 +2,7 @@
  * Created by vaibhav on 31/3/18
  */
 module.exports = {
-  siteTitle: 'CTinformatique |.', // Site title.
+  siteTitle: 'CTI', // Site title.
   siteTitleAlt: 'Informatique,Web, Création de site internet, informaticien, basse-normandie,chanu.', // Alternative site title for SEO.
   siteLogo: '/logos/logo-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://ctinformatique.fr', // Domain of your website without pathPrefix.
