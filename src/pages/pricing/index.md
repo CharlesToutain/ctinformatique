@@ -19,7 +19,7 @@ pricing:
         - Cours informatiques
         - Conseils
       plan: Particuliers
-      price: 25/heures
+      price: 25/heure
     - description: >-
         Prix HT. Déplacement dans un rayon de 50KM au delà une majoration sera
         appliquée.(voir cgv).
@@ -28,12 +28,12 @@ pricing:
         - Installation et conseil matériels informatiques
         - Webmarketing
         - Digitalisation
-      plan: Enterprise
-      price: 40/heures
+      plan: Entreprise
+      price: 40/heure
     - description: 'Pour les projets types start-up, associations ....'
       items:
         - Discutons-en !
-      plan: Custom
+      plan: Sur mesure
       price: '??'
 meta_title: 'Tarifs | CTinformatique création de site web, dépannage informatique.'
 meta_description: >-
