@@ -9,8 +9,12 @@ meta_description: >-
 ---
 ## CTinformatique l'envie de construire.
 
-_Charles-Edouard Toutain à crée ctinformatique en partant d'un constat. Les particuliers et les petites entreprises ont besoins d'aides et d'accompagnements dans le monde numérique._
+**Le web et l'informatique **sont des outils indispensables pour les **particuliers** et les **professionnels**. Ctinformatique part de ce constat afin de proposer des services adaptés et tournés vers vous clients ou futurs clients. 
 
-_En cours de rédaction désolé :) _
+Située dans l'Orne en Basse-Normandie nous intervenons dans tous le secteur Bas-Normand, nous avons des clients sur **Alençon**, **Caen**, **Flers**, **Saint-Lô** et partout en Basse-Normandie. Nous travaillons aussi avec des clients situés en **Mayenne** et la **Rochelle**. 
 
-**Construisons ensembles !**
+Cela fait **3 ans **que _CTinformatique_ existe nous avons depuis peu engagé un technicien pour s'occuper des particuliers afin de les dépanner rapidement dans un délais de 8H suivant votre urgence ! Nous travaillons avec beaucoup de partenaires différents afin d'offrir un service de qualité en toute circonstance. 
+
+Que vous soyez **particuliers** ou **professionnels** nous sommes la pour vous écouter et comprendre vos problématiques afin d'améliorer votre quotidien [contactez-nous](https://www.ctinformatique.fr/contact) 
+
+[**Construisons ensembles !**](https://www.ctinformatique.fr/contact)
